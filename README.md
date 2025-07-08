@@ -10,7 +10,7 @@ A simple Python script to detect fake news using TF-IDF vectorization and a Pass
    ```bash
    git clone https://github.com/your-username/fake-news-detector.git
    cd fake-news-detector
-Install 
+Install requirement
 
 bash
 Copy
